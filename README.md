@@ -1,4 +1,4 @@
 ## project: re shop web ui
-# tên thành viên: 
-# phi dũng 1
-# phi dũng 2
+## tên thành viên: 
+## nguyễn phi dũng 1
+## nguyễn phi dũng 2
